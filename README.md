@@ -1,6 +1,6 @@
 ### Hi, I'm Mrunal 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,nodejs,redux,express,mongodb,typescript,css,html&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,typescript,react,nodejs,redux,express,mongodb,css,html&theme=light)](https://skills.thijs.gg)
 <!--
 **MRUNAL727/MRUNAL727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
