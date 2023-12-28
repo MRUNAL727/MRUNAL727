@@ -1,4 +1,4 @@
-### Hi, I'm Mrunal 👋
+<!-- ### Hi, I'm Mrunal 👋-->
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,nextjs,typescript,react,nodejs,redux,express,mongodb,css,html&theme=light)](https://skills.thijs.gg)
 <!--
