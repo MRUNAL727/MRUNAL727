@@ -1,6 +1,6 @@
 <!-- ### Hi, I'm Mrunal 👋-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,angular,nextjs,node.js,express,mongodb,sql,typescript,redux,html,css,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,angular,nextjs,node,express,mongodb,mysql,typescript,redux,html,css,scss)](https://skillicons.dev)
 <!--
 **MRUNAL727/MRUNAL727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
